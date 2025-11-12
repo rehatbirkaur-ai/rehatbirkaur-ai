@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on my growth and trying to be better version of myself.
-- 🌱 I’m currently learning Github and python.
+- 🌱 I’m currently learning Github and python..
 
 
 <!--
